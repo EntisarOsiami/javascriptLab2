@@ -25,7 +25,7 @@ if (connectionSpeed < 0) {
         console.log("Poor DSL connection");
     }
 
-} else if (connectionType == "unknown") {
+} else  {
     console.log("Unknown connection type");
 }
 
